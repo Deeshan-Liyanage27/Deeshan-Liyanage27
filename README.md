@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deeshan-Liyanage27&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deeshan-Liyanage27&layout=compact&border_color=1e2228&disable_animations=true&bg_color=1e2228&text_color=a8b4c1&title_color=)](https://github.com/Deeshan-Liyanage27/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deeshan-Liyanage27&theme=gotham)
 <!--
 **Deeshan-Liyanage27/Deeshan-Liyanage27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
